@@ -5,10 +5,15 @@ SIMPLE CALCULATOR
 def simple_calculator():
 <br>
     print("Welcome to the Simple Calculator!")
+    <br>
     print("Select an operator:")
+    <br>
     print("1. Addition or Sum (+)")
+    <br>
     print("2. Subtraction or Differnce (-)")
+    <br>
     print("3. Multiplication  or Product(*)")
+    <br>
     print("4. Division or Ratio (/)")
     
     # Get the user input for the operator 
