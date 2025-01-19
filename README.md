@@ -1,4 +1,5 @@
 '''
+SIMPLE CALCULATOR
 '''
 def simple_calculator():
     print("Welcome to the Simple Calculator!")
