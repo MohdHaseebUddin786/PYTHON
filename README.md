@@ -1,8 +1,9 @@
 # PYTHON
 Basic Python Project
 <br>
+
+
 def simple_calculator():
-<br>
     print("Welcome to the Simple Calculator!")
     print("Select an operator:")
     print("1. Addition or Sum (+)")
