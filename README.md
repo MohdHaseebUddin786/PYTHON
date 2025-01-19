@@ -1,6 +1,6 @@
 # PYTHON
 Basic Python Project
-
+<br>
 def simple_calculator():
     print("Welcome to the Simple Calculator!")
     print("Select an operator:")
