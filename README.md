@@ -1,15 +1,13 @@
-# PYTHON
-Basic Python Project
-<br>
-
-
+'''
+'''
 def simple_calculator():
     print("Welcome to the Simple Calculator!")
     print("Select an operator:")
     print("1. Addition or Sum (+)")
     print("2. Subtraction or Differnce (-)")
     print("3. Multiplication  or Product(*)")
-    print("4. Division or Ratio (/)")   
+    print("4. Division or Ratio (/)")
+    
     # Get the user input for the operator 
     operator = input("Enter the number of the operator (1,2,3,4): ")
     
